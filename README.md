@@ -1,0 +1,2 @@
+# cuenta
+Line counting tool
